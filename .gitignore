@@ -1,0 +1,6 @@
+.history/
+.idea/
+.vscode/
+*pycache*
+db.sqlite3
+venv/
